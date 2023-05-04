@@ -169,6 +169,8 @@ push_1683194634_2345
 ==> default: Attempting graceful shutdown of VM...
 ```
 
+![Снимок экрана (168)](https://user-images.githubusercontent.com/55855887/236183371-6fad8d3b-9412-4169-ac1b-0a22afb6be51.png)
+
 ------------------------------------------------------------------
 * Полезные команды:
 
